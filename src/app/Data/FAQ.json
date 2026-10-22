@@ -1,0 +1,34 @@
+{
+  "faq": {
+    "label": "Frequently Asked Questions",
+    "title": "Questions Patients Often Ask",
+    "description": "Find answers to some common questions about consultations, appointments and care at Mishra Homopathy Clinic.",
+
+    "items": [
+      {
+        "question": "What happens during the first consultation?",
+        "answer": "The doctor will discuss your health concerns, medical history and other relevant details to understand your individual needs and determine the appropriate course of consultation."
+      },
+      {
+        "question": "How long does a consultation usually take?",
+        "answer": "The consultation duration can vary depending on the individual's concerns and the information that needs to be discussed. The clinic can provide the expected consultation duration when you book your appointment."
+      },
+      {
+        "question": "Do I need to book an appointment before visiting?",
+        "answer": "Appointments are recommended to help the clinic manage consultation timings and provide patients with dedicated time. You can contact the clinic or use the appointment booking option on this website."
+      },
+      {
+        "question": "Can I book an online consultation?",
+        "answer": "Online consultation availability depends on the services offered by the clinic. Please contact the clinic to confirm whether an online consultation is available for your needs."
+      },
+      {
+        "question": "What health concerns does the clinic provide consultations for?",
+        "answer": "The clinic provides consultations across various areas of care. You can explore the Treatments section on this website to learn more about the areas covered by the clinic."
+      },
+      {
+        "question": "How can I book an appointment?",
+        "answer": "You can book an appointment through the appointment form on this website or contact the clinic directly using the available contact details."
+      }
+    ]
+  }
+}

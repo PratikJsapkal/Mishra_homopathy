@@ -1,0 +1,58 @@
+{
+  "treatments": [
+    {
+      "title": "Allergies",
+      "slug": "allergies",
+      "shortDescription": "Personalized consultations for recurring allergy-related concerns.",
+      "href": "/treatments/allergies"
+    },
+    {
+      "title": "Asthma & Respiratory",
+      "slug": "asthma-respiratory",
+      "shortDescription": "Individual consultations for respiratory health concerns.",
+      "href": "/treatments/asthma-respiratory"
+    },
+    {
+      "title": "Skin Conditions",
+      "slug": "skin-conditions",
+      "shortDescription": "Personalized consultations for common skin-related concerns.",
+      "href": "/treatments/skin-conditions"
+    },
+    {
+      "title": "Digestive Problems",
+      "slug": "digestive-problems",
+      "shortDescription": "Consultations focused on understanding digestive concerns.",
+      "href": "/treatments/digestive-problems"
+    },
+    {
+      "title": "Migraine & Headaches",
+      "slug": "migraine-headaches",
+      "shortDescription": "Individual consultations for recurring headache and migraine concerns.",
+      "href": "/treatments/migraine-headaches"
+    },
+    {
+      "title": "Joint Problems",
+      "slug": "joint-problems",
+      "shortDescription": "Personalized consultations for joint and mobility-related concerns.",
+      "href": "/treatments/joint-problems"
+    },
+    {
+      "title": "Women's Health",
+      "slug": "womens-health",
+      "shortDescription": "Individualized consultations for women's health concerns.",
+      "href": "/treatments/womens-health"
+    },
+    {
+      "title": "Children's Health",
+      "slug": "childrens-health",
+      "shortDescription": "Personalized consultations focused on children's health concerns.",
+      "href": "/treatments/childrens-health"
+    },
+    {
+      "title": "Stress & Sleep",
+      "slug": "stress-sleep",
+      "shortDescription": "Consultations for concerns related to stress and sleep.",
+      "href": "/treatments/stress-sleep"
+    }
+  ]
+}

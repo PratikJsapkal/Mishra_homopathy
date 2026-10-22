@@ -1,0 +1,106 @@
+{
+  "advancedTreatments": {
+    "label": "Advanced Homeopathy Care",
+    "title": "Personalized Care for Your Health Concerns",
+    "description": "Explore the areas of care offered at Mishra Homopathy Clinic, with consultations focused on understanding each patient's individual health concerns.",
+
+    "items": [
+      {
+        "title": "Skin Conditions",
+        "slug": "skin-conditions",
+        "image": "/treatmetent.jpg",
+        "description": "Personalized consultations for a range of skin-related concerns.",
+        "href": "/treatments/skin-conditions"
+      },
+      {
+        "title": "Allergies",
+        "slug": "allergies",
+        "image": "/treatmetent.jpg",
+        "description": "Individual consultations for recurring allergy-related concerns.",
+        "href": "/treatments/allergies"
+      },
+      {
+        "title": "Asthma & Respiratory",
+        "slug": "asthma-respiratory",
+        "image": "/treatmetent.jpg",
+        "description": "Personalized care for respiratory health concerns.",
+        "href": "/treatments/asthma-respiratory"
+      },
+      {
+        "title": "Digestive Problems",
+        "slug": "digestive-problems",
+        "image": "/treatmetent.jpg",
+        "description": "Consultations focused on understanding digestive concerns.",
+        "href": "/treatments/digestive-problems"
+      },
+      {
+        "title": "Migraine & Headaches",
+        "slug": "migraine-headaches",
+        "image": "/treatmetent.jpg",
+        "description": "Individual consultations for recurring headache and migraine concerns.",
+        "href": "/treatments/migraine-headaches"
+      },
+      {
+        "title": "Joint Problems",
+        "slug": "joint-problems",
+        "image": "/treatmetent.jpg",
+        "description": "Personalized consultations for joint and mobility-related concerns.",
+        "href": "/treatments/joint-problems"
+      },
+      {
+        "title": "Women's Health",
+        "slug": "womens-health",
+        "image": "/treatmetent.jpg",
+        "description": "Individualized consultations for women's health concerns.",
+        "href": "/treatments/womens-health"
+      },
+      {
+        "title": "Children's Health",
+        "slug": "childrens-health",
+        "image": "/treatmetent.jpg",
+        "description": "Personalized consultations focused on children's health concerns.",
+        "href": "/treatments/childrens-health"
+      },
+      {
+        "title": "Stress & Sleep",
+        "slug": "stress-sleep",
+        "image": "/treatmetent.jpg",
+        "description": "Consultations for concerns related to stress and sleep.",
+        "href": "/treatments/stress-sleep"
+      }
+    ]
+  },
+
+  "treatmentResults": {
+    "label": "Treatment Results",
+    "title": "Real Patient Journeys",
+    "description": "Explore documented treatment experiences and patient journeys shared by the clinic.",
+
+    "items": [
+      {
+        "title": "Treatment Result 01",
+        "condition": "To be added",
+        "beforeImage": "/before.jpg",
+        "afterImage": "/after.jpg",
+        "duration": "To be added",
+        "description": "Patient treatment information to be provided by the clinic."
+      },
+      {
+        "title": "Treatment Result 02",
+        "condition": "To be added",
+        "beforeImage": "/before.jpg",
+        "afterImage": "/after.jpg",
+        "duration": "To be added",
+        "description": "Patient treatment information to be provided by the clinic."
+      },
+      {
+        "title": "Treatment Result 03",
+        "condition": "To be added",
+        "beforeImage": "/before.jpg",
+        "afterImage": "/after.jpg",
+        "duration": "To be added",
+        "description": "Patient treatment information to be provided by the clinic."
+      }
+    ]
+  }
+}

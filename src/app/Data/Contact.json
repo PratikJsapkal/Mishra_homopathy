@@ -1,0 +1,56 @@
+
+{
+  "contact": {
+    "label": "Contact Us",
+    "title": "We’re Here to Help You",
+    "description": "Have questions about consultations or planning a visit? Get in touch with Mishra Homopathy Clinic. Our team will help you with the information you need.",
+
+    "details": {
+      "phone": "084199 14887",
+      "email": "clinic@example.com",
+      "address": "1st Floor, Jain Chambers, Swami Vivekanand Road, above Sleepwell Mattress, opposite Lucky Hotel, Bandra West, Mumbai, Maharashtra 400050",
+      "openingHours": [
+        {
+          "days": "Monday",
+          "hours": "3:00 PM – 9:00 PM"
+        },
+        {
+          "days": "Tuesday",
+          "hours": "3:00 PM – 9:00 PM"
+        },
+        {
+          "days": "Wednesday",
+          "hours": "3:00 PM – 9:00 PM"
+        },
+        {
+          "days": "Thursday",
+          "hours": "3:00 PM – 9:00 PM"
+        },
+        {
+          "days": "Friday",
+          "hours": "3:00 PM – 9:00 PM"
+        },
+        {
+          "days": "Saturday",
+          "hours": "12:00 PM – 5:00 PM"
+        },
+        {
+          "days": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+
+    "map": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3412.7458428770174!2d72.8380184!3d19.054638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9b4551077f1%3A0xa7c0405612241218!2sDr.%20Mishra%E2%80%99s%20Homoeopathy%20clinic%20(Dr.%20Vinay%20U%20Mishra)!5e1!3m2!1sen!2sin!4v1790927271315!5m2!1sen!2sin",
+      "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Dr+Mishra+Homoeopathy+Clinic+Dr+Vinay+U+Mishra+Bandra+West+Mumbai"
+    },
+
+    "appointment": {
+      "title": "Planning a Visit?",
+      "description": "Book a consultation at a time that works for you.",
+      "buttonLabel": "Book an Appointment",
+      "href": "/appointment"
+    }
+  }
+}

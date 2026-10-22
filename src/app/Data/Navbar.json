@@ -1,0 +1,78 @@
+{
+  "logo": {
+    "name": "Mishra Homopathy Clinic",
+    "tagline": "Always There. Always Genuine.",
+    "icon": "/logo.svg"
+  },
+
+  "links": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Treatments",
+      "href": "/treatments",
+      "dropdown": true,
+      "items": [
+        {
+          "label": "Allergies",
+          "href": "/treatments/allergies"
+        },
+        {
+          "label": "Asthma & Respiratory Conditions",
+          "href": "/treatments/asthma-respiratory"
+        },
+        {
+          "label": "Skin Conditions",
+          "href": "/treatments/skin-conditions"
+        },
+        {
+          "label": "Digestive Problems",
+          "href": "/treatments/digestive-problems"
+        },
+        {
+          "label": "Migraine & Headaches",
+          "href": "/treatments/migraine-headaches"
+        },
+        {
+          "label": "Joint & Musculoskeletal Problems",
+          "href": "/treatments/joint-musculoskeletal"
+        },
+        {
+          "label": "Women's Health",
+          "href": "/treatments/womens-health"
+        },
+        {
+          "label": "Children's Health",
+          "href": "/treatments/childrens-health"
+        },
+        {
+          "label": "Stress & Sleep Concerns",
+          "href": "/treatments/stress-sleep"
+        }
+      ]
+    },
+    {
+      "label": "Doctors",
+      "href": "/doctors"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  ],
+
+  "cta": {
+    "label": "Book Appointment",
+    "href": "/appointment"
+  }
+}

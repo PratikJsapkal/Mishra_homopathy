@@ -1,0 +1,97 @@
+{
+  "doctors": {
+    "label": "Our Doctors",
+    "title": "Meet Our Doctors",
+    "description": "Meet the doctors at Mishra Homopathy Clinic who are dedicated to understanding patients' individual concerns and providing thoughtful consultations.",
+
+    "founder": {
+      "id": 1,
+      "name": "Dr.Vinay.U.Mishra",
+      "designation": "Founder & Homeopathic Physician",
+      "image": "/doctor.jpg",
+      "experience": "15+ Years Experience",
+      "qualifications": [
+        "Qualification to be added",
+        "Additional certification to be added"
+      ],
+      "specialization": [
+        "Area of specialization to be added",
+        "Area of specialization to be added"
+      ],
+      "shortBio": "A dedicated homeopathic physician focused on understanding each patient's individual health concerns and providing personalized consultations.",
+      "fullBio": "Add the verified professional biography of the founder here, including educational background, professional experience, areas of practice and approach to patient care."
+    },
+
+    "team": [
+      {
+        "id": 2,
+        "name": "Dr. Alfisha",
+        "designation": "Homeopathic Physician",
+        "image": "/Doctors/Doctor3.jpeg",
+        "experience": "Experience to be added",
+        "qualifications": [
+          "Qualification to be added"
+        ],
+        "specialization": [
+          "Area of specialization to be added"
+        ],
+        "shortBio": "Add a verified short professional biography for the doctor."
+      },
+      {
+        "id": 3,
+        "name": "Dr. Simran",
+        "designation": "Homeopathic Physician",
+        "image": "/Doctors/Doctor1.jpeg",
+        "experience": "Experience to be added",
+        "qualifications": [
+          "Qualification to be added"
+        ],
+        "specialization": [
+          "Area of specialization to be added"
+        ],
+        "shortBio": "Add a verified short professional biography for the doctor."
+      },
+      {
+        "id": 4,
+        "name": "Dr. Aijaz ",
+        "designation": "Homeopathic Physician",
+        "image": "/Doctors/Doctor2.jpeg",
+        "experience": "Experience to be added",
+        "qualifications": [
+          "Qualification to be added"
+        ],
+        "specialization": [
+          "Area of specialization to be added"
+        ],
+        "shortBio": "Add a verified short professional biography for the doctor."
+      }
+    ],
+
+    "approach": {
+      "label": "Our Approach",
+      "title": "Care That Starts With Listening",
+      "description": "Our doctors focus on understanding each patient's concerns, discussing relevant health information and communicating clearly throughout the consultation process.",
+      "points": [
+        {
+          "title": "Listen",
+          "description": "Take time to understand the patient's concerns and individual circumstances."
+        },
+        {
+          "title": "Understand",
+          "description": "Review relevant health information to better understand the patient's needs."
+        },
+        {
+          "title": "Guide",
+          "description": "Provide clear information and guidance throughout the consultation."
+        }
+      ]
+    },
+
+    "appointment": {
+      "title": "Ready to Book a Consultation?",
+      "description": "Schedule an appointment with Mishra Homopathy Clinic and take the next step towards personalized care.",
+      "buttonLabel": "Book Appointment",
+      "href": "/appointment"
+    }
+  }
+}

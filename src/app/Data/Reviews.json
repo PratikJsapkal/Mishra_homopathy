@@ -1,0 +1,51 @@
+{
+  "reviews": {
+    "label": "Patient Reviews",
+    "title": "What Our Patients Say",
+    "description": "Read experiences shared by patients about their consultations and care at Mishra Homopathy Clinic.",
+    "rating": "4.9",
+    "totalReviews": "120+",
+    "items": [
+      {
+        "id": 1,
+        "authorName": "Rahul Sharma",
+        "rating": 5,
+        "text": "Very professional and caring consultation. The doctor listened patiently and explained everything clearly.",
+        "relativeTime": "2 months ago",
+        "authorPhoto": ""
+      },
+      {
+        "id": 2,
+        "authorName": "Priya Patil",
+        "rating": 5,
+        "text": "Had a very good experience at the clinic. The staff was polite and the consultation was handled patiently.",
+        "relativeTime": "3 months ago",
+        "authorPhoto": ""
+      },
+      {
+        "id": 3,
+        "authorName": "Amit Joshi",
+        "rating": 5,
+        "text": "The doctor took time to understand my concerns and answered all my questions properly. Good overall experience.",
+        "relativeTime": "4 months ago",
+        "authorPhoto": ""
+      },
+      {
+        "id": 4,
+        "authorName": "Sneha Kulkarni",
+        "rating": 5,
+        "text": "A comfortable and welcoming clinic. I appreciated the detailed consultation and the way everything was explained.",
+        "relativeTime": "5 months ago",
+        "authorPhoto": ""
+      },
+      {
+        "id": 5,
+        "authorName": "Vikas More",
+        "rating": 4,
+        "text": "Good consultation experience. The doctor was attentive and explained the next steps clearly.",
+        "relativeTime": "6 months ago",
+        "authorPhoto": ""
+      }
+    ]
+  }
+}

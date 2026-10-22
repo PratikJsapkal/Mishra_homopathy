@@ -1,0 +1,103 @@
+
+{
+  "clinic": {
+    "name": "Mishra Homopathy Clinic",
+    "tagline": "Always There. Always Genuine.",
+    "intro": "A patient-focused homeopathy clinic dedicated to providing personalized consultations and thoughtful care.",
+
+    "about": {
+      "label": "About Our Clinic",
+      "title": "Care That Begins With Understanding",
+      "image": "/clinic.webp",
+      "paragraphs": [
+        "Mishra Homopathy Clinic provides consultations for patients seeking guidance for their individual health concerns.",
+        "Our approach focuses on listening to patients, understanding their concerns and relevant medical history, and communicating clearly throughout the consultation process."
+      ],
+      "mission": {
+        "title": "Our Mission",
+        "description": "To provide respectful, patient-focused consultations where individuals feel heard, informed and supported."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To build lasting patient relationships through clear communication, responsible practice and a welcoming clinic environment."
+      },
+      "values": [
+        {
+          "title": "Patient First",
+          "description": "Listen carefully and treat every patient with respect."
+        },
+        {
+          "title": "Personal Attention",
+          "description": "Understand each patient's concerns and individual circumstances."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "Explain the consultation process and help patients make informed decisions."
+        },
+        {
+          "title": "Responsible Care",
+          "description": "Respect professional boundaries and encourage appropriate medical care."
+        }
+      ]
+    },
+
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "10,000+",
+        "label": "Patients Consulted"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Patient Reviews"
+      },
+      {
+        "value": "95%",
+        "label": "Patient Satisfaction"
+      }
+    ],
+
+    "journey": [
+      {
+        "year": "2010",
+        "title": "The Beginning",
+        "description": "Mishra Homopathy Clinic began its journey with a focus on personalized patient care."
+      },
+      {
+        "year": "2015",
+        "title": "Growing With Our Patients",
+        "description": "The clinic continued to grow through patient relationships and word-of-mouth recommendations."
+      },
+      {
+        "year": "2020",
+        "title": "Expanding Our Care",
+        "description": "The clinic continued developing its consultation services to address a wider range of patient concerns."
+      },
+      {
+        "year": "Today",
+        "title": "Continuing the Journey",
+        "description": "The clinic remains focused on understanding patients' concerns and providing thoughtful consultations."
+      }
+    ],
+
+    "founder": {
+      "label": "Meet Our Founder",
+      "name": "Dr. [Doctor Name]",
+      "designation": "Founder & Homeopathic Physician",
+      "image": "/doctor.jpg",
+      "shortBio": "A dedicated homeopathic physician focused on understanding each patient's individual health concerns and providing personalized consultations.",
+      "fullBio": "",
+      "qualifications": [
+        "Qualification to be added",
+        "Additional certification to be added"
+      ],
+      "experience": "",
+      "specialization": [
+        "To be confirmed"
+      ]
+    }
+  }
+}
